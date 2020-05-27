@@ -15,3 +15,10 @@ ul {
     font-size: 20px;
     line-height: 30px;
 }
+.pic {
+    width: 250px;
+    height: 250px;
+}
+html {
+    text-align: center;
+}
