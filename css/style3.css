@@ -1,0 +1,26 @@
+.cityimage {
+    width: 500px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-style: solid;
+    border-color: slategrey;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 30px;
+}
+
+p {
+    line-height: 25px;
+}
+
+html {
+    text-align: center;
+    background-color: skyblue;
+}
